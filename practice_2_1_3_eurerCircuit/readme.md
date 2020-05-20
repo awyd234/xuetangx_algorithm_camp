@@ -16,7 +16,7 @@
 
 下面是一个 n=3 的例子（即样例）。
 
-![img](https://dsa.cs.tsinghua.edu.cn/oj/attachment/2dc2/2dc2002caca14c4439c08808cc5967bdd43e4203.png)
+![img](https://i.loli.net/2020/05/21/reWXkx5A1ZQJOPU.png)
 
 ## 输入格式
 一行一个整数 n。
